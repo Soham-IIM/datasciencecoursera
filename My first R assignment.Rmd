@@ -1,0 +1,19 @@
+---
+title: "My First R assignment"
+author: "Soham Chaudhuri"
+date: "03/08/2020"
+output: pdf_document
+---
+
+
+
+# This is a Markdown file  
+
+My first R assignment
+
+
+
+
+
+
+
